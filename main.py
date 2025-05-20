@@ -1,1 +1,1 @@
-print("Hello")pšš
+print("Hello")
